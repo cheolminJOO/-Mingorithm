@@ -28,3 +28,7 @@
 // }
 
 // solution('aaaaa', 'bbbbb');
+
+const bb = '손흥민';
+const cc = bb.split('흥');
+console.log(cc);
